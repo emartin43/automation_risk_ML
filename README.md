@@ -17,3 +17,7 @@ Future research would benefit from creating a framework for studying the automat
 ### [Probit R Script](https://github.com/emartin43/automation_risk_ML/blob/659b44e37e5a397e77af9ea702207944998a4d92/Probit.R)
 ### [Visualizations R Script](https://github.com/emartin43/automation_risk_ML/blob/cf44db431b4f75efeba685203c69938499fdd4b9/Visualizations%20.R)
 ### [Final Combined Data](https://github.com/emartin43/automation_risk_ML/blob/cf44db431b4f75efeba685203c69938499fdd4b9/final.csv)
+
+
+![image](https://user-images.githubusercontent.com/85309853/198832654-6e461675-aea2-4e37-a79c-a4aad51895d4.png)
+
