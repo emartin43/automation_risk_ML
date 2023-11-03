@@ -1,4 +1,4 @@
-# automation_risk_ML
+# Automation Risk Analysis 
 
 Replicates and builds on Frey and Osborne’s (2013) findings to determine what occupations are at risk of automation using recent occupational data. We run a quadratic discriminant analysis to determine the probabilities of automation as well as incorporate a probit model to find marginal effect of each automation bottleneck on computerization risk. We find that 342 of the occupations analyzed are at a high risk of automation, which is around 39.2% of the total Department of Labor occupational database. Future research would benefit from creating a framework for studying the automatability of occupations. 
 
